@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #d9d0c7
+}
+section{
+    background-color: #d98236;
+    color: whitesmoke;
+    padding: 2rem;
+    width: 70%;
+    margin: auto;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+}
+select{
+    width: 14rem;
+    padding: 0.5rem;
+    text-align: center;
+    margin: .5rem;
+}
+input{
+    width: 6.6rem;
+
+}
+#titulo{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    background-color: #a62103;
+    padding: .5rem;
+    margin: 1rem;
+    border-radius: 0.3rem;
+    list-style: none;
+    text-decoration: none;
+}
